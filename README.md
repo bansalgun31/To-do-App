@@ -67,3 +67,7 @@ Potential improvements for the app:
 - Task editing capability
 - Task priority levels
 - Due dates for tasks
+
+## License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details.
